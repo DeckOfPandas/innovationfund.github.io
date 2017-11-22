@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: rgb(216, 107, 0);
+}
+.page-header .logo {
+    width: 200px;
+    margin-bottom: 36px;
+}
+.page-header {
+    background-color: white;
+    background-image: none;
+    border-bottom: 1px solid #ccc;
+    color: rgba(29, 66, 136, 0.9);
+}

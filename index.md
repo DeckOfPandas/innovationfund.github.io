@@ -10,4 +10,5 @@ Individual awards are likely to be in the region of **£10,000 to £25,000**. Pr
 
 The deadline for applications is **Friday 8 December 13:00 GMT**.
 
+
 Further details and answers to frequently asked questions may be found below, while applicants may contact innovationfund@apperta.org should they have further questions.

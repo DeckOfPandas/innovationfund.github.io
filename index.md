@@ -8,7 +8,7 @@ In order to maximise the dissemination and benefit to the NHS any software produ
 
 Individual awards are likely to be in the region of **£10,000 to £25,000**. Proposals exceeding this range should make an exceptional case based on value and impact of the proposed project.
 
-The deadline for applications is **Friday 8 December 13:00 GMT**.
+The deadline for applications is **Wednesday 13 December 13:00 GMT**.
 
 
 Further details and answers to frequently asked questions may be found below, while applicants may contact becky.wassall@apperta.org should they have further questions.

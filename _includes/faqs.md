@@ -78,9 +78,9 @@ As well as developing your project:
 * We expect that any software produced as part of this funding, and any documents or materials that are produced must be released under a free software or creative commons license.
 * We expect you to write two short (500 words or so) public guest posts on our blog about your project - one at the start explaining the problem space you are exploring, and another at the end to share what you’ve learnt and what you did over the course of the project. 
 
-#### Do you pay VAT?
+#### How do I handle VAT?
 
-No. Projects will be supported as a charitable grant, and as such awards are not liable for VAT.
+The amount of funding you ask for should be the total amount you require including an VAT. Feel free you get in touch with us if you have any further questions about this.
 
 #### Can I apply from outside the UK
 

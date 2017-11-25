@@ -47,13 +47,13 @@ We understand. Setting up a new social enterprise brings its own administrative 
 
 Although the governance of the fund means we have to award money to social enterprises and we can’t award it to individuals directly, we may be able to help find a social enterprise with appropriate governance willing to hold the cash for your project on your behalf.
 
-If this sounds like you, then do get in touch to discuss further at innovationfund@apperta.org 
+If this sounds like you, then do get in touch to discuss further at becky.wassall@apperta.org 
 
 #### I don’t have a prototype yet, what should I do?
 
 If you don’t have a prototype yet that’s fine - it just means you have a little further to go along your journey ! This programme is specifically seeking projects that have spent some time exploring their problem domain and validating their ideas. That’s one of the reasons we’re launching this fund to coincide with NHS Ideas Lab. Hackathons are a great way to spend some time working with a small multidisciplinary team and perhaps develop an initial prototype of your idea.
 
-If you’d like to know more about how to get your idea to the point where you have a prototype, as well as other things that you can learn and do related to clinical innovation we’d love to talk to you anyway - part of what we do at Apperta is helping people along that journey. Drop us a line at innovationfund@apperta.org
+If you’d like to know more about how to get your idea to the point where you have a prototype, as well as other things that you can learn and do related to clinical innovation we’d love to talk to you anyway - part of what we do at Apperta is helping people along that journey. Drop us a line at becky.wassall@apperta.org
 
 #### How long is the project expected to take and when is the earliest funds would be made available?
 

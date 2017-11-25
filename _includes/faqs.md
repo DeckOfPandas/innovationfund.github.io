@@ -27,16 +27,19 @@ The IP remains with you as an applicant, although we expect materials directly f
 
 #### What is Boehringer Ingelheim’s involvement in the fund?
 
-The Access to Innovation fund is a sum of money donated by Boehringer Ingelheim Ltd to support clinical innovation that benefits patients and their care. 
+The Access to Innovation Fund brings the Boehringer Ingelheim vision of Value Through Innovation to life, by supporting social enterprises which are working to improve health outcomes, enhance patient care and wellbeing, and make the healthcare system more efficient.
 
-The fund will be held and apportioned by the Apperta Foundation, a clinician led not-for-profit community interest company supported by NHS England and NHS Digital.
+The Boehringer Ingelheim Innovation Fund is independently administered by the Apperta Foundation CIC.
 
-In order to comply with Boehringer Ingelheim Ltd's governance framework, the following strict rules apply to decisions regarding grantees:
+The Boehringer Ingelheim Innovation Fund was launched in November 2017, with a £100,000 grant to the Apperta Foundation from Boehringer Ingelheim Ltd. 
 
-* There should be no link to or mention of Boehringer Ingelheim Ltd products whatsoever
-* Projects should have the aim of enhancing patient care and supporting the NHS, preferably regarding the management of long term conditions, but other projects are welcome
-* The fund is for social enterprise use only, and cannot be apportioned to any profit-making companies
-* An independent panel, over which Boehringer Ingelheim will have no influence, will hold and distribute relevant funds to those who are eligible
+The Fund will support social enterprises which are working to improve health outcomes, enhance patient care and wellbeing, as well as releasing clinicians’ time for patient care by creating more efficiencies in the healthcare system.
+
+Projects supported by the Fund will use innovative ways to address unmet needs of patients with long term conditions.
+
+Grants are awarded in an open and transparent process, led by an independent panel appointed by the Apperta Foundation CIC. Boehringer Ingelheim Ltd has no influence whatsoever, directly or indirectly, on this process.
+
+All outcomes from Projects supported by the Fund will be published, in line with the Fund’s principle of openness and transparency. Any software developed with support from the Fund will be shared with an open source or creative commons licence.
 
 #### I don’t have a social enterprise and I’m not sure I want to start a new one for this funding - what should I do?
 

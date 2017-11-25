@@ -15,11 +15,12 @@ We won’t fund purchases of hardware, legal fees or general overheads of your o
 
 After the initial application form above, we will shortlist selected projects and conduct phone interviews with the applicants during the 13th - 15th December. At this stage we are likely to request some additional information from applicants, which we will use to make a final decision by the end of Monday 18th December
 
-* Phone screens for shortlist 13th-15th
-* Any clarifying details by Mon 18th 09:00
-* Funding decisions by Mon 18th Dec 17:00
-* Applicants informed Tue 19th Dec 09:30
-* Projects start from Jan 2018
+* Deadline for applications 13th Dec 13:00
+* Offer phone inverview slots to shortlisted applicants 15th Dec 17:00
+* Phone interviews for shortlisted applicants 20th-21st Dec
+* Any clarifying details by Fri Jan 5th 13:00
+* Funding decisions by Friday 12th Jan 17:00
+* Projects start from Feb 2018
 
 #### Who owns IP for materials produced by funding from the Access to Innovation Fund?
 

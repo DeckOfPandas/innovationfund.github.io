@@ -48,7 +48,7 @@ We understand. Setting up a new social enterprise brings its own administrative 
 
 Although the governance of the fund means we have to award money to social enterprises and we can’t award it to individuals directly, we may be able to help find a social enterprise with appropriate governance willing to hold the cash for your project on your behalf.
 
-If this sounds like you, then do get in touch to discuss further at becky.wassall@apperta.org 
+If this sounds like you, then do get in touch to discuss further at [becky.wassall@apperta.org](mailto:becky.wassall@apperta.org) 
 
 #### I don’t have a prototype yet, what should I do?
 

@@ -1,7 +1,7 @@
 
 ### Frequently Asked Questions
 
-#### What costs can be included - Can you give any examples of the kinds of things you might fund?
+#### What costs can be included? Can you give any examples of the kinds of things you might fund?
 
 Funding can be used to support direct expenditure required to develop the proposed project. Examples may include:
 
@@ -13,14 +13,14 @@ We won’t fund purchases of hardware, legal fees or general overheads of your o
 
 #### How will the application process work?
 
-After the initial application form above, we will shortlist selected projects and conduct phone interviews with the applicants during the 13th - 15th December. At this stage we are likely to request some additional information from applicants, which we will use to make a final decision by the end of Monday 18th December
+After the initial application form above, we will shortlist selected projects and conduct phone interviews with the applicants between the 13th - 15th December. At this stage we are likely to request some additional information from applicants, which we will use to make a final decision by the end of Monday 18th December
 
-* Deadline for applications 13th Dec 13:00
-* Offer phone inverview slots to shortlisted applicants 15th Dec 17:00
-* Phone interviews for shortlisted applicants 20th-21st Dec
-* Any clarifying details by Fri Jan 5th 13:00
-* Funding decisions by Friday 12th Jan 17:00
-* Projects start from Feb 2018
+* Deadline for applications: Wednesday December 13th 13:00
+* Phone intverview slots offered to shortlisted applicants: by Friday December 15th 17:00
+* Phone interviews for shortlisted applicants: Wednesday 20th and Thursday December 21st
+* Details clarified: by Friday January 5th 2018 13:00
+* Funding decisions: by Friday January 12th 17:00
+* Projects start: from February 2018
 
 #### Who owns IP for materials produced by funding from the Access to Innovation Fund?
 

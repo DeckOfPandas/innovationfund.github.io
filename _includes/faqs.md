@@ -9,7 +9,13 @@ Funding can be used to support direct expenditure required to develop the propos
 * Paying for software development to help you move forward with for instance creating or improving a prototype
 * Funding travel for participants in user testing and research workshops to gain a deeper understanding of your problem space
 
-We won’t fund purchases of hardware, legal fees or general overheads of your organization.
+We won’t fund:
+
+* Purchases of hardware
+* Legal fees
+* General overheads of your organization
+* Stafff salary for the delivery of care
+* Education or training 
 
 #### How will the application process work?
 

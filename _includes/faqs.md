@@ -64,6 +64,8 @@ We expect most projects to be completed within six months, although if you have 
 
 The institution applying must be a registered charity, community interest company, or non-dividend paying company limited by guarantee. This is a red-line condition for all applications.
 
+Other forms of nonprofit institution are not eligible for this particular call.
+
 #### Would you be prepared to part-fund a project?
 
 In principle, yes. You should be prepared to provide details of the additional funding and we would be unlikely to fund projects where your additional funding had not yet been secured.

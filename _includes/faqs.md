@@ -19,7 +19,7 @@ We won’t fund:
 
 #### How will the application process work?
 
-After the initial application form above, we will shortlist selected projects and conduct phone interviews with the applicants between the December 20th - 21st. At this stage we are likely to request some additional information from applicants, which we will use to make a final decision by the end of January 12th 2018.
+After the initial application form above, we will shortlist selected projects and conduct phone interviews with the applicants between the January 24 - 31. At this stage we are likely to request some additional information from applicants, which we will use to make a final decision by February 7th 2018.
 
 * Deadline for applications: Wednesday December 13th 13:00
 * Phone interviews for shortlisted applicants: Wednesday 24th January 2018 and Wednesday 31st January 2018
